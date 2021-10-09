@@ -9,6 +9,7 @@ public class Class1 {
 	
 	public void method1() {
 		System.out.println("786");
+		System.out.println("Allah");
 	}
 
 }
