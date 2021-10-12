@@ -1,6 +1,6 @@
 package package1;
 
-import java.sql.SQLException;
+
 
 public class Class2 extends ClassD{
 	ClassD d;
