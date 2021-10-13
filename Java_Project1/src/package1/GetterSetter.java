@@ -17,6 +17,9 @@ public class GetterSetter {
 		System.out.println(g.geta());
 		g.setA(20);
 		System.out.println(g.geta());
+		final int[] aa = new int[3];
+		 aa[0] = 22;
+		System.out.println(aa[0]);
 	}
 
 }

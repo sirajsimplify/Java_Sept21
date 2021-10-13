@@ -1,7 +1,5 @@
 package package1;
 
-
-
 public class Class2 extends ClassD{
 	ClassD d;
 	Class2(ClassD d){
