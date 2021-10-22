@@ -72,6 +72,7 @@ public class ArithematicExceptionClass {
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
+		
 		System.out.println("Hello");
 	}
 	
